@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchForExpiredStew", "searchForExpiredStew\searchForExpiredStew.csproj", "{E80E2511-7A62-4479-9D58-85EA67292BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E80E2511-7A62-4479-9D58-85EA67292BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80E2511-7A62-4479-9D58-85EA67292BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80E2511-7A62-4479-9D58-85EA67292BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80E2511-7A62-4479-9D58-85EA67292BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7359BCC8-B7A6-4D35-A584-7E33EB3684E2}
+	EndGlobalSection
+EndGlobal
